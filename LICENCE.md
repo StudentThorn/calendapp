@@ -1,0 +1,1 @@
+[Calendapp](https://github.com/StudentThorn/calendapp) © 2023 by [@StudentThorn](https://github.com/StudentThorn) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
